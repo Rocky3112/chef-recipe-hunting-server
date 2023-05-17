@@ -1,0 +1,320 @@
+[
+  {
+    "id": "0",
+    "name": "Hiroshi Nakamura",
+    "experience": 15,
+    "recipes_number": 87,
+    "likes": "Ramen",
+    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "recipes": [
+      {
+        "recipe_name": "Tonkotsu Ramen",
+        "ingredients": [
+          "pork bones",
+          "garlic",
+          "ginger",
+          "scallions",
+          "pork belly",
+          "ramen noodles",
+          "soft-boiled egg",
+          "norimaki",
+          "sesame oil",
+          "soy sauce",
+          "mirin"
+        ],
+        "cooking_method": "1. Boil pork bones for 12 hours to create a rich broth.\n2. Add garlic, ginger, and scallions to the broth and simmer for 30 minutes.\n3. Cook pork belly until crispy.\n4. Boil ramen noodles for 3 minutes.\n5. Assemble bowl with noodles, broth, pork belly, soft-boiled egg, norimaki, sesame oil, soy sauce, and mirin.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Ramen",
+        "ingredients": [
+          "miso paste",
+          "chicken stock",
+          "sake",
+          "sugar",
+          "ramen noodles",
+          "sliced pork",
+          "corn",
+          "menma",
+          "scallions"
+        ],
+        "cooking_method": "1. Mix miso paste, chicken stock, sake, and sugar to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, corn, menma, and scallions.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Shoyu Ramen",
+        "ingredients": [
+          "chicken broth",
+          "soy sauce",
+          "mirin",
+          "ramen noodles",
+          "sliced pork",
+          "narutomaki",
+          "scallions"
+        ],
+        "cooking_method": "1. Combine chicken broth, soy sauce, and mirin to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, narutomaki, and scallions.",
+        "rating": 4.1
+      }
+    ],
+    "image_url": "https://img.freepik.com/premium-photo/african-american-chef-slicing-fresh-celery-cutting-board-preparing-ingredients-gourmet-meal-culinary-food-recipe-male-cook-using-professional-utensils-make-gastronomy-dish_482257-42109.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Yukiko Tanaka",
+    "experience": 10,
+    "recipes_number": 63,
+    "likes": "Sushi",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Dragon Roll",
+        "ingredients": [
+          "Nori seaweed",
+          "Sushi rice",
+          "Avocado",
+          "Grilled eel",
+          "Soy sauce"
+        ],
+        "cooking_method": "1. Lay the nori seaweed on a bamboo mat. Spread sushi rice evenly over the nori, leaving a small border.\n2. Place avocado and grilled eel in the center of the rice.\n3. Roll the bamboo mat tightly, applying gentle pressure to create a firm roll.\n4. Slice the roll into bite-sized pieces.\n5. Serve with soy sauce for dipping.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tuna Nigiri",
+        "ingredients": [
+          "Sushi rice",
+          "Fresh tuna slices",
+          "Wasabi",
+          "Soy sauce",
+          "Pickled ginger"
+        ],
+        "cooking_method": "1. Take a small amount of sushi rice and shape it into a rectangular mound.\n2. Place a slice of fresh tuna on top of the rice.\n3. Serve with a dab of wasabi and soy sauce.\n4. Garnish with pickled ginger.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Soup",
+        "ingredients": [
+          "Miso paste",
+          "Dashi stock",
+          "Tofu",
+          "Green onions",
+          "Wakame seaweed"
+        ],
+        "cooking_method": "1. Bring dashi stock to a simmer.\n2. Dissolve miso paste in a small amount of dashi stock and add it to the pot.\n3. Add tofu, sliced green onions, and wakame seaweed.\n4. Simmer for a few minutes until the ingredients are heated through.\n5. Serve hot.",
+        "rating": 4.2
+      }
+    ],
+    "image_url": "https://media2.newtimesslo.com/ntslo/imager/u/blog/12890108/foodanddrink_flavor1-1-f545b663f97b7c43.jpg?cb=1682010917"
+  },
+  {
+    "id": "2",
+    "name": "Kenta Suzuki",
+    "experience": 8,
+    "recipes_number": 87,
+    "likes": "Ramen",
+    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "recipes": [
+      {
+        "recipe_name": "Tonkotsu Ramen",
+        "ingredients": [
+          "pork bones",
+          "garlic",
+          "ginger",
+          "scallions",
+          "pork belly",
+          "ramen noodles",
+          "soft-boiled egg",
+          "norimaki",
+          "sesame oil",
+          "soy sauce",
+          "mirin"
+        ],
+        "cooking_method": "1. Boil pork bones for 12 hours to create a rich broth.\n2. Add garlic, ginger, and scallions to the broth and simmer for 30 minutes.\n3. Cook pork belly until crispy.\n4. Boil ramen noodles for 3 minutes.\n5. Assemble bowl with noodles, broth, pork belly, soft-boiled egg, norimaki, sesame oil, soy sauce, and mirin.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Ramen",
+        "ingredients": [
+          "miso paste",
+          "chicken stock",
+          "sake",
+          "sugar",
+          "ramen noodles",
+          "sliced pork",
+          "corn",
+          "menma",
+          "scallions"
+        ],
+        "cooking_method": "1. Mix miso paste, chicken stock, sake, and sugar to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, corn, menma, and scallions.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Shoyu Ramen",
+        "ingredients": [
+          "chicken broth",
+          "soy sauce",
+          "mirin",
+          "ramen noodles",
+          "sliced pork",
+          "narutomaki",
+          "scallions"
+        ],
+        "cooking_method": "1. Combine chicken broth, soy sauce, and mirin to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, narutomaki, and scallions.",
+        "rating": 4.1
+      }
+    ],
+    "image_url":"https://images.hola.com/us/images/026c-12f7a03748d0-efeef3f23432-1000/horizontal-1200/chef-and-food-writer-alejandra-ramos.png"
+  },
+  {
+    "id": "3",
+    "name": "Ayumi Kato",
+    "experience": 5,
+    "recipes_number": 63,
+    "likes": "Sushi",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Dragon Roll",
+        "ingredients": [
+          "Nori seaweed",
+          "Sushi rice",
+          "Avocado",
+          "Grilled eel",
+          "Soy sauce"
+        ],
+        "cooking_method": "1. Lay the nori seaweed on a bamboo mat. Spread sushi rice evenly over the nori, leaving a small border.\n2. Place avocado and grilled eel in the center of the rice.\n3. Roll the bamboo mat tightly, applying gentle pressure to create a firm roll.\n4. Slice the roll into bite-sized pieces.\n5. Serve with soy sauce for dipping.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tuna Nigiri",
+        "ingredients": [
+          "Sushi rice",
+          "Fresh tuna slices",
+          "Wasabi",
+          "Soy sauce",
+          "Pickled ginger"
+        ],
+        "cooking_method": "1. Take a small amount of sushi rice and shape it into a rectangular mound.\n2. Place a slice of fresh tuna on top of the rice.\n3. Serve with a dab of wasabi and soy sauce.\n4. Garnish with pickled ginger.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Soup",
+        "ingredients": [
+          "Miso paste",
+          "Dashi stock",
+          "Tofu",
+          "Green onions",
+          "Wakame seaweed"
+        ],
+        "cooking_method": "1. Bring dashi stock to a simmer.\n2. Dissolve miso paste in a small amount of dashi stock and add it to the pot.\n3. Add tofu, sliced green onions, and wakame seaweed.\n4. Simmer for a few minutes until the ingredients are heated through.\n5. Serve hot.",
+        "rating": 4.2
+      }
+    ],
+    "image_url":"https://m.media-amazon.com/images/M/MV5BODA4MDk4YzctOGE0MC00MDdlLThmOTctZmM2ZmIzZjYyNjgxXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+  },
+  {
+    "id": "4",
+    "recipe_name": "Takumi Sato",
+    "experience": 3,
+    "recipes_number": 87,
+    "likes": "Ramen",
+    "description": "Hiroshi is a seasoned ramen chef with over 15 years of experience. He trained in the art of making ramen in Fukuoka, Japan, and has perfected his technique over the years. Hiroshi's ramen is known for its rich, savory broth and perfectly cooked noodles.",
+    "recipes": [
+      {
+        "name": "Tonkotsu Ramen",
+        "ingredients": [
+          "pork bones",
+          "garlic",
+          "ginger",
+          "scallions",
+          "pork belly",
+          "ramen noodles",
+          "soft-boiled egg",
+          "norimaki",
+          "sesame oil",
+          "soy sauce",
+          "mirin"
+        ],
+        "cooking_method": "1. Boil pork bones for 12 hours to create a rich broth.\n2. Add garlic, ginger, and scallions to the broth and simmer for 30 minutes.\n3. Cook pork belly until crispy.\n4. Boil ramen noodles for 3 minutes.\n5. Assemble bowl with noodles, broth, pork belly, soft-boiled egg, norimaki, sesame oil, soy sauce, and mirin.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Ramen",
+        "ingredients": [
+          "miso paste",
+          "chicken stock",
+          "sake",
+          "sugar",
+          "ramen noodles",
+          "sliced pork",
+          "corn",
+          "menma",
+          "scallions"
+        ],
+        "cooking_method": "1. Mix miso paste, chicken stock, sake, and sugar to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, corn, menma, and scallions.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Shoyu Ramen",
+        "ingredients": [
+          "chicken broth",
+          "soy sauce",
+          "mirin",
+          "ramen noodles",
+          "sliced pork",
+          "narutomaki",
+          "scallions"
+        ],
+        "cooking_method": "1. Combine chicken broth, soy sauce, and mirin to create the broth.\n2. Cook sliced pork until crispy.\n3. Boil ramen noodles for 3 minutes.\n4. Assemble bowl with noodles, broth, pork, narutomaki, and scallions.",
+        "rating": 4.1
+      }
+    ],
+    "image_url": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Sean-Plating-CDPL-Credit-Photo-RX-1558471582.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mai Nakamura",
+    "experience": 2,
+    "recipes_number": 63,
+    "likes": "Sushi",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Dragon Roll",
+        "ingredients": [
+          "Nori seaweed",
+          "Sushi rice",
+          "Avocado",
+          "Grilled eel",
+          "Soy sauce"
+        ],
+        "cooking_method": "1. Lay the nori seaweed on a bamboo mat. Spread sushi rice evenly over the nori, leaving a small border.\n2. Place avocado and grilled eel in the center of the rice.\n3. Roll the bamboo mat tightly, applying gentle pressure to create a firm roll.\n4. Slice the roll into bite-sized pieces.\n5. Serve with soy sauce for dipping.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tuna Nigiri",
+        "ingredients": [
+          "Sushi rice",
+          "Fresh tuna slices",
+          "Wasabi",
+          "Soy sauce",
+          "Pickled ginger"
+        ],
+        "cooking_method": "1. Take a small amount of sushi rice and shape it into a rectangular mound.\n2. Place a slice of fresh tuna on top of the rice.\n3. Serve with a dab of wasabi and soy sauce.\n4. Garnish with pickled ginger.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Miso Soup",
+        "ingredients": [
+          "Miso paste",
+          "Dashi stock",
+          "Tofu",
+          "Green onions",
+          "Wakame seaweed"
+        ],
+        "cooking_method": "1. Bring dashi stock to a simmer.\n2. Dissolve miso paste in a small amount of dashi stock and add it to the pot.\n3. Add tofu, sliced green onions, and wakame seaweed.\n4. Simmer for a few minutes until the ingredients are heated through.\n5. Serve hot.",
+        "rating": 4.2
+      }
+    ],
+    "image_url":"https://media2.newtimesslo.com/ntslo/imager/u/blog/12890108/foodanddrink_flavor1-1-f545b663f97b7c43.jpg?cb=1682010917"
+  }
+]
